@@ -10,7 +10,9 @@
 
 ### Team Member (Solo)
 
-| `Ravi Shankar Gupta` | `ravishankar.kr440@gmail.com` | `https://github.com/shankar-23/Qiskit_Hackathon` |
+ `Ravi Shankar Gupta`  
+ `ravishankar.kr440@gmail.com`  
+ `https://github.com/shankar-23/Qiskit_Hackathon` |
 ---
 ## 1. Project Overview & Motivation
 
