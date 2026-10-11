@@ -1,6 +1,6 @@
 """
-quantum_engine.py — Qiskit Quantum Circuit Engine
-==================================================
+quantum_engine.py — Qiskit Quantum Circuit Engine(The Quantum Heart)
+====================================================================
 
 THIS FILE CONNECTS THE GAME TO REAL QUANTUM MECHANICS.
 

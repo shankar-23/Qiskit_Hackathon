@@ -5,8 +5,8 @@
 * **Project Title:** `Quantum Tic-Tac-Toe — Superposition, Entanglement & Collapse on the 3×3 Board`
 * **Team Name:** `Ravi Shankar Gupta`
 * **Chosen Track:** `Track 1: Quantum Games & Interactive Puzzles`
-* **Video Presentation Link:** `[Insert YouTube Unlisted / Google Drive / Loom URL here]`
-* **Live Demo Timestamp in Video:** `[MM:SS]`
+* **Video Presentation Link:** `https://youtu.be/grqgZgDTQFw`
+* **Live Demo Timestamp in Video:** `4:30 https://youtu.be/grqgZgDTQFw?si=H1RJIbZH-k5X-CSs`
 
 ### Team Member (Solo)
 
@@ -154,7 +154,7 @@ def measure_and_collapse(self, cells_to_measure: list[int]) -> dict[int, int]:
 * **Comparative Analysis:**
 
   | Metric | Classical Tic-Tac-Toe | Quantum Tic-Tac-Toe |
-  |---|---|---|
+  
   | Optimal play result | Always Draw | Wins/losses occur due to collapse |
   | Source of uncertainty | None | Genuine quantum randomness (measurement) |
   | Strategic depth | 3-in-a-row placement | + Entanglement cycle management + collapse choice |
@@ -189,7 +189,9 @@ def measure_and_collapse(self, cells_to_measure: list[int]) -> dict[int, int]:
 
 * Allan Goff, *Quantum Tic-Tac-Toe: A Teaching Metaphor for Superposition in Quantum Mechanics*, [arXiv:quant-ph/0202151](https://arxiv.org/abs/quant-ph/0202151)
 * David Meyer, *Quantum Strategies*, Physical Review Letters, 1999 — [DOI](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.1052)
-* [Qiskit Documentation](https://docs.quantum.ibm.com/guides) — Circuit building, StatevectorSampler
-* [Streamlit Documentation](https://docs.streamlit.io/) — Web UI framework
-* [Qiskit Community Awesome Quantum Games](https://github.com/qiskit-community/awesome-quantum-games)
+* Qiskit Documentation](https://docs.quantum.ibm.com/guides) — Circuit building, StatevectorSampler
+* Streamlit Documentation](https://docs.streamlit.io/) — Web UI framework
+* Qiskit Community Awesome Quantum Games](https://github.com/qiskit-community/awesome-quantum-games)
 * IIIT Kottayam Qiskit Fall Fest 2026 organizers for the starter resources
+* AI tools- Claude, Chatgpt
+
