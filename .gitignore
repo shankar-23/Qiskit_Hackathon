@@ -1,0 +1,63 @@
+# ── Python ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# ── Virtual Environments ─────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Jupyter Notebook ─────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Streamlit ────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Distribution / Build ─────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# ── Testing & Coverage ───────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ── IDE / Editor files ───────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── OS files ─────────────────────────────────────────
+Desktop.ini
+
+# ── Logs ─────────────────────────────────────────────
+*.log
+logs/
+
+# ── Secrets / API Keys ───────────────────────────────
+.env
+*.env
+secrets.toml
+ibm_quantum_token.txt
+
+# ── Large output / data files ────────────────────────
+*.pkl
+*.h5
+*.hdf5
+
+# ── Qiskit / IBM specific ────────────────────────────
+qiskit_cache/
